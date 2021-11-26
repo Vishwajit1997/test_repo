@@ -3,5 +3,5 @@
 > store it into string named "Name[]"
 ## Using Predefined Functions from File-Handling
 ### To take input from Keyboard and print over Consol
-> fgets(Name, sizeof(Name), stdin);
-> fputs(Name, stdout);
+  fgets(Name, sizeof(Name), stdin);
+  fputs(Name, stdout);
