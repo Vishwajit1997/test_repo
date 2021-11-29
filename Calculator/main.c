@@ -5,6 +5,7 @@ int main(int argc, char const *argv[])
 {
     printf("Sum = %d\n", add(20,15));
     printf("Diff = %d\n", sub(20,15));
+    printf("Prod = %d\n", mul(20,15));
 
     return 0;
 }
